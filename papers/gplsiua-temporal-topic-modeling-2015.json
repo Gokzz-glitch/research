@@ -1,0 +1,20 @@
+{
+  "id": "gplsiua-temporal-topic-modeling-2015",
+  "title": "GPLSIUA: Combining Temporal Information and Topic Modeling for Cross-Document Event Ordering",
+  "authors": [
+    "Borja Navarro-Colorado",
+    "E. Boró"
+  ],
+  "venue": "International Workshop on Semantic Evaluation",
+  "year": 2015,
+  "citations": 9,
+  "doi": true,
+  "full_text_available": true,
+  "topics": [
+    "Temporal Information Extraction",
+    "Event Ordering",
+    "Cross-Document Event Coreference",
+    "Topic Modeling"
+  ],
+  "summary": "Cross-document event coreference resolution using temporal information and semantic arguments achieves high Micro-average F-score results in event ordering tasks."
+}

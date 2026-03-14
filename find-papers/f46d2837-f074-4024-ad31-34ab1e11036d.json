@@ -1,0 +1,73 @@
+{
+  "query_id": "f46d2837-f074-4024-ad31-34ab1e11036d",
+  "query": "Temporal Information Extraction for Legal Text Documents",
+  "retrieved_count": 4,
+  "full_text_retrieved": 1,
+  "sources_need_action": 2,
+  "results": [
+    {
+      "paper_id": "f46d2837-f074-4024-ad31-34ab1e11036d",
+      "title": "Reasoning in Legal Text Documents with Extracted Event Information",
+      "authors": [
+        "Naik. M Venkateswrlu",
+        "G. Vanitha",
+        "Srujana Inturi"
+      ],
+      "year": 2011,
+      "citations": 9,
+      "doi": true,
+      "full_text_available": true,
+      "relevance_summary": "Temporal Information Extraction and Legal NLP: Automatic extraction of events and time expressions from legal texts using constraint satisfaction networks and Allen's Algebra relations; evaluated using precision and recall on DUC 2005 dataset.",
+      "file": "papers/reasoning-in-legal-text-documents.json"
+    },
+    {
+      "paper_id": "survey-temporal-reasoning-2019",
+      "title": "A Survey on Temporal Reasoning for Temporal Information Extraction from Text",
+      "authors": [
+        "A. Leeuwenberg",
+        "Marie-Francine Moens"
+      ],
+      "venue": "Journal of Artificial Intelligence Research",
+      "year": 2019,
+      "citations": 36,
+      "doi": true,
+      "full_text_available": true,
+      "relevance_summary": "Temporal reasoning is crucial for extracting temporal cues and constructing a global temporal view, but the abstract does not specifically address Legal NLP or other related topics.",
+      "file": "papers/survey-temporal-reasoning-leeuwenberg-2019.json"
+    },
+    {
+      "paper_id": "gplsiua-temporal-topic-modeling-2015",
+      "title": "GPLSIUA: Combining Temporal Information and Topic Modeling for Cross-Document Event Ordering",
+      "authors": [
+        "Borja Navarro-Colorado",
+        "E. Boró"
+      ],
+      "venue": "International Workshop on Semantic Evaluation",
+      "year": 2015,
+      "citations": 9,
+      "doi": true,
+      "full_text_available": true,
+      "relevance_summary": "Cross-document event coreference resolution using temporal information and semantic arguments achieves high Micro-average F-score results in event ordering tasks.",
+      "file": "papers/gplsiua-temporal-topic-modeling-2015.json"
+    },
+    {
+      "paper_id": "hybrid-temporal-clinical-text-2013",
+      "title": "A hybrid system for temporal information extraction from clinical text",
+      "authors": [
+        "Buzhou Tang",
+        "Yonghui Wu",
+        "Min Jiang",
+        "Yukun Chen",
+        "J. Denny",
+        "and 1 more"
+      ],
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": 2013,
+      "citations": 125,
+      "doi": true,
+      "full_text_available": true,
+      "relevance_summary": "Temporal information extraction system developed for clinical text, achieving high F-measures for temporal expression and relation extraction; no direct relevance to legal NLP or other specified topics.",
+      "file": "papers/hybrid-temporal-clinical-text-2013.json"
+    }
+  ]
+}
