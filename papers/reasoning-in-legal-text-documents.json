@@ -1,0 +1,37 @@
+{
+  "id": "f46d2837-f074-4024-ad31-34ab1e11036d",
+  "title": "Reasoning in Legal Text Documents with Extracted Event Information",
+  "authors": [
+    "Naik. M Venkateswrlu",
+    "G. Vanitha",
+    "Srujana Inturi"
+  ],
+  "year": 2011,
+  "citations": 9,
+  "doi": true,
+  "full_text_available": true,
+  "abstract": "Extracting Events, Time Expressions and Named Entities from Legal text is fundamental aspect for deep language understanding and key to various applications such as Temporal Reasoning in Criminal Documents, Case decisions(Intellectual property and crime) for details, Case Based Reasoning, Ordering of Cases according to their Time lines, Determining Relevancy between Precedent cases and Current cases, Temporal Question Answering System, Text Summarization and Documents Retrieval according to Events and Times. Our long term intension is to build a system which automatically extracts Events and Time expressions and ordering them in a particular order. Ordering of events become significant task and it is assists to finding all feasible times a given event can occur, all relationships between two given events, finding one or more consistent scenarios and finally representing data in a minimal network form. In this paper, we are focusing about automatic extraction of Quantitative, Qualitative time's information and from Legal Text Documents, along with this Legal text expressed in natural language can be automatically annotated with semantic mark ups using natural language processing Techniques. Finally applied reasoning among temporal information with the help of extracted information. Reasoning can be done using constraint satisfaction networks by applying Allen's Algebra relations. Apart from this result analysis obtained using Precision and Recall statistical measurements over standard dataset DUC 2005.",
+  "general_terms": [
+    "Tokenization",
+    "Parts of speech tagging",
+    "Named Entity Recognition",
+    "Relation Recognition between Events",
+    "Time Extraction",
+    "Event Extraction",
+    "Quantitative times"
+  ],
+  "topics": [
+    "Temporal Information Extraction",
+    "Legal NLP",
+    "Event Extraction",
+    "Allen's Algebra",
+    "Constraint Satisfaction Networks",
+    "Named Entity Recognition"
+  ],
+  "dataset": "DUC 2005",
+  "evaluation_metrics": [
+    "Precision",
+    "Recall"
+  ],
+  "summary": "Temporal Information Extraction and Legal NLP: Automatic extraction of events and time expressions from legal texts using constraint satisfaction networks and Allen's Algebra relations; evaluated using precision and recall on DUC 2005 dataset."
+}

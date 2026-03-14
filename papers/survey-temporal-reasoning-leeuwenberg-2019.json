@@ -1,0 +1,19 @@
+{
+  "id": "survey-temporal-reasoning-2019",
+  "title": "A Survey on Temporal Reasoning for Temporal Information Extraction from Text",
+  "authors": [
+    "A. Leeuwenberg",
+    "Marie-Francine Moens"
+  ],
+  "venue": "Journal of Artificial Intelligence Research",
+  "year": 2019,
+  "citations": 36,
+  "doi": true,
+  "full_text_available": true,
+  "topics": [
+    "Temporal Information Extraction",
+    "Temporal Reasoning",
+    "Natural Language Processing"
+  ],
+  "summary": "Temporal reasoning is crucial for extracting temporal cues and constructing a global temporal view, but the abstract does not specifically address Legal NLP or other related topics."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hybrid-temporal-clinical-text-2013",
+  "title": "A hybrid system for temporal information extraction from clinical text",
+  "authors": [
+    "Buzhou Tang",
+    "Yonghui Wu",
+    "Min Jiang",
+    "Yukun Chen",
+    "J. Denny",
+    "and 1 more"
+  ],
+  "venue": "J. Am. Medical Informatics Assoc.",
+  "year": 2013,
+  "citations": 125,
+  "doi": true,
+  "full_text_available": true,
+  "topics": [
+    "Temporal Information Extraction",
+    "Clinical NLP",
+    "Temporal Expression",
+    "Relation Extraction"
+  ],
+  "summary": "Temporal information extraction system developed for clinical text, achieving high F-measures for temporal expression and relation extraction; no direct relevance to legal NLP or other specified topics."
+}
