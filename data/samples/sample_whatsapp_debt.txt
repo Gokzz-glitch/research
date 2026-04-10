@@ -1,0 +1,10 @@
+14/02/2024, 10:15 - Rajesh Kumar: Hi Priya, can we discuss the outstanding payment for February?
+14/02/2024, 10:18 - Priya Sharma: Yes, the invoice from last month is still pending. Invoice No. INV-2024-0145 for ₹2,50,000.
+14/02/2024, 10:22 - Rajesh Kumar: Correct. The balance due on that invoice is ₹2,50,000. Please arrange payment soon.
+14/02/2024, 10:25 - Priya Sharma: I understand. I will give you a cheque tomorrow for the outstanding amount.
+15/02/2024, 11:00 - Rajesh Kumar: Did you prepare the cheque?
+15/02/2024, 11:05 - Priya Sharma: Yes, I have issued cheque No. 004521 for ₹2,50,000 towards payment of Invoice INV-2024-0145. You can collect it from my office.
+15/02/2024, 11:10 - Rajesh Kumar: Thank you. I will send my driver to collect it.
+20/02/2024, 09:00 - Rajesh Kumar: Priya, I presented the cheque at the bank. It was dishonoured.
+20/02/2024, 09:05 - Priya Sharma: I am sorry, I will arrange funds by end of this week.
+25/02/2024, 16:00 - Rajesh Kumar: The cheque has bounced again. I am sending you a legal notice.
